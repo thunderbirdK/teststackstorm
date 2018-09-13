@@ -1,4 +1,4 @@
-ref : test pack
+ref : test_pack
 name : test pack name
 description : testing stackstorm
 keywords : test
