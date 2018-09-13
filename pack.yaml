@@ -1,7 +1,8 @@
 ref : test_pack
 name : test pack name
 description : testing stackstorm
-keywords : test
-vertion : v1
+keywords : 
+  - test
+version : 1
 author: dhanushka
 email : dhanushka.kulatunga@pearson.com
